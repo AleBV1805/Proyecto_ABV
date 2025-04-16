@@ -8,6 +8,9 @@
  II.II Variables Aleatorias Contínuas 
  
  II.III Esperanza Matemática \n
+ 
  II.IV Variables Aleatorias \n
+ 
  II.V Simulación de Variables Aleatorias \n
+ 
  II.VI Método de Estimación Puntual por Intervalos \n
