@@ -1,7 +1,7 @@
 # Proyecto_ABV
  Proyecto, Módulo II, Diplomando en Técnicas Estadísticas y Minería de Datos\n
 \n
- Contenido del Módulo II Modelos Estadísticos \n
+ Contenido del Módulo II Modelos Estadísticos ␣␣
 \n
  II.I Variables Aleatorias Discretas \n
  II.II Variables Aleatorias Contínuas \n
